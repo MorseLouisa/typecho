@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /usr/
 Sitemap: https://yaqi.eu.org/sitemap.xml
